@@ -1,7 +1,7 @@
 import java.io.*;
 
-/*Tee ohjelma, joka laskee tietyn ajanjakson aikana tehtyjen työtuntien määrän sekä tulostaa tuntien yhteismäärän,
-keskimääräisen työpäivän pituuden ja syötetyt tunnit eriteltynä. Ohjelman tulee aluksi kysyä, 
+/*Ohjelma, joka laskee tietyn ajanjakson aikana tehtyjen työtuntien määrän sekä tulostaa tuntien yhteismäärän,
+keskimääräisen työpäivän pituuden ja syötetyt tunnit eriteltynä. Ohjelma kysyy, 
 kuinka monen työpäivän tiedot syötetään (max. 30 päivää). Tämän jälkeen ohjelma kysyy päivittäiset työtunnit. */
 
 public class Tunnit {
