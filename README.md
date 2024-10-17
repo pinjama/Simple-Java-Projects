@@ -1,6 +1,6 @@
 # Autoilua
 
-**Ohjelmassa on harhoiteltu periytyvän luokan laatimista.**
+**Ohjelmassa on harjoiteltu periytyvän luokan laatimista.**
 
 Ohjelma kysyy käyttäjältä auton tiedot.
 Tämän jälkeen ohjelma tulostaa syötetyt tiedot ja käynnistää auton.
