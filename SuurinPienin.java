@@ -26,9 +26,6 @@ public class SuurinPienin
     }
   }
 
-//  Tähän kirjoitetaan metodit suurin() ja pienin()!!!
-//  Metodit kirjoitetaan alapuolen tekstikenttään.
-
   public static int suurin(int numero1, int numero2, int numero3){
     int suurin_luku;
 
