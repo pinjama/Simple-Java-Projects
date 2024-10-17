@@ -34,7 +34,6 @@ class Ajoneuvo
    }
 }
 
-/*tähän koodi */
 class Auto extends Ajoneuvo {
     
     String merkki;
